@@ -5,7 +5,3 @@ I am an Automation and AI Specialist with expertise in intelligent system design
 ---
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keifer-kolar/)
----
-
-
-
