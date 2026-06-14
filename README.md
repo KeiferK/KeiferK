@@ -8,4 +8,4 @@ Hello! My name is **Keifer** and I am Computer Science Graduate of Baldwin Walla
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/KeiferK/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=KeiferK&color=blue)
