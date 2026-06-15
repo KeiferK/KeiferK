@@ -1,5 +1,5 @@
 # About Me
-Hello! My name is **Keifer** and I am Computer Science Graduate of Baldwin Wallace!
+Hello! My name is **Keifer** and I am a Computer Science Graduate of Baldwin Wallace!
 
 ---
 
