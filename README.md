@@ -51,5 +51,6 @@ Hello! My name is Keifer and I am a Computer Science Graduate of Baldwin Wallace
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keifer-kolar/)
 ---
-![Keifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeiferK&show_icons=true&theme=dracula&cache_seconds=1800)
+![Keifer's GitHub Stats](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Computer+Science+Graduate;AI+%26+Data+Engineer)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=KeiferK&color=blue)
