@@ -1,6 +1,6 @@
 # About Me
 # ![Hello World](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F7F7F7&width=300&lines=Hello+World!)
-My name is Keifer and I am a Computer Science Graduate of Baldwin Wallace University. I specialize in AI engineering, data analysis, and automation. Currently building projects in LangChain, pandas, and matplotlib while actively seeking roles in AI/data.
+My name is Keifer and I am a Computer Science Graduate of Baldwin Wallace University.
 
 ## Tech Stack
 
